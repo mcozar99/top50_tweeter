@@ -1,0 +1,7 @@
+pandas
+numpy
+spotipy
+requests
+openpyxl
+tweepy
+Google-Images-Search
